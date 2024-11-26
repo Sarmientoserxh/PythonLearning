@@ -14,7 +14,7 @@ Este es un juego interactivo de MadLibs donde puedes crear y jugar con historias
 - Interfaz gráfica interactiva y fácil de usar.
 - Mejora visual con colores y iconos.
 
-#### 🛠️ Cómo usarlo:
+### 🛠️ Cómo usarlo:
 1. Clona este repositorio: `git clone https://github.com/tu_usuario/python-learning.git`
 2. Navega al directorio del proyecto: `cd python-learning`
 3. Ejecuta el script: `python madlibs.py`
